@@ -82,3 +82,13 @@ pongi@LAPTOP-4PEOJNJL MINGW64 /e/GIT PRAC/Sample01 (B1)
 $ git checkout master
 Switched to branch 'master'
 
+GIRI UPDATED
+pongi@LAPTOP-4PEOJNJL MINGW64 /e/GIT PRAC/Sample01 (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+pongi@LAPTOP-4PEOJNJL MINGW64 /e/GIT PRAC/Sample01 (master)
+$
