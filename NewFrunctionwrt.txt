@@ -11,15 +11,7 @@ On branch master
 nothing to commit, working tree clean
 
 pongi@LAPTOP-4PEOJNJL MINGW64 /e/GIT PRAC/Sample01 (master)
-$ git branch B1
-
-pongi@LAPTOP-4PEOJNJL MINGW64 /e/GIT PRAC/Sample01 (master)
-$ git checkout B1
-Switched to branch 'B1'
-
-pongi@LAPTOP-4PEOJNJL MINGW64 /e/GIT PRAC/Sample01 (B1)
-$ git checkout master
-Switched to branch 'master'
+$ git 
 
 pongi@LAPTOP-4PEOJNJL MINGW64 /e/GIT PRAC/Sample01 (master)
 $ git branch --list
@@ -49,6 +41,48 @@ $ git branch B1
 pongi@LAPTOP-4PEOJNJL MINGW64 /e/GIT PRAC/Sample01 (master)
 $ git checkout b1
 Switched to branch 'b1'
+
+
+branch B1
+
+pongi@LAPTOP-4PEOJNJL MINGW64 /e/GIT PRAC/Sample01 (master)
+$ git checkout B1
+Switched to branch 'B1'
+
+pongi@LAPTOP-4PEOJNJL MINGW64 /e/GIT PRAC/Sample01 (B1)
+$ git checkout master
+Switched to branch 'master'
+
+branch B1
+
+pongi@LAPTOP-4PEOJNJL MINGW64 /e/GIT PRAC/Sample01 (master)
+$ git checkout B1
+Switched to branch 'B1'
+
+pongi@LAPTOP-4PEOJNJL MINGW64 /e/GIT PRAC/Sample01 (B1)
+$ git checkout master
+Switched to branch 'master'
+
+branch B1
+
+pongi@LAPTOP-4PEOJNJL MINGW64 /e/GIT PRAC/Sample01 (master)
+$ git checkout B1
+Switched to branch 'B1'
+
+pongi@LAPTOP-4PEOJNJL MINGW64 /e/GIT PRAC/Sample01 (B1)
+$ git checkout master
+Switched to branch 'master'
+
+
+branch B1
+
+pongi@LAPTOP-4PEOJNJL MINGW64 /e/GIT PRAC/Sample01 (master)
+$ git checkout B1
+Switched to branch 'B1'
+
+pongi@LAPTOP-4PEOJNJL MINGW64 /e/GIT PRAC/Sample01 (B1)
+$ git checkout master
+Switched to branch 'master'
 
 
 b1b1b1
