@@ -50,3 +50,11 @@ pongi@LAPTOP-4PEOJNJL MINGW64 /e/GIT PRAC/Sample01 (master)
 $ git checkout b1
 Switched to branch 'b1'
 
+
+b1b1b1
+b1
+b1
+b1
+b1
+Commit changes
+Commit changes
